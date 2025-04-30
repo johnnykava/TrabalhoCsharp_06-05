@@ -1,0 +1,14 @@
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\bin\Debug\net8.0\Exercicio01.exe
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\bin\Debug\net8.0\Exercicio01.deps.json
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\bin\Debug\net8.0\Exercicio01.runtimeconfig.json
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\bin\Debug\net8.0\Exercicio01.dll
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\bin\Debug\net8.0\Exercicio01.pdb
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.AssemblyInfo.cs
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.dll
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\refint\Exercicio01.dll
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.pdb
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\Exercicio01.genruntimeconfig.cache
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio01\obj\Debug\net8.0\ref\Exercicio01.dll
