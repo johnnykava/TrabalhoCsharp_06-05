@@ -74,3 +74,19 @@ O funcionamento é o seguinte:
     -  Opção 3: Finaliza o programa com uma mensagem de despedida;
 
     -  Caso o usuário digite uma opção inválida, o programa exibe uma mensagem de erro e repete o menu.
+
+# Exercicio 05:
+
+Este programa em C# verifica se a palavra digitada pelo usuário é um palíndromo, ou seja, se ela é lida da mesma forma de frente para trás e de trás para frente.
+
+O programa:
+
+- Lê uma palavra do usuário;
+
+- Converte todos os caracteres para minúsculo (ignorando letras maiúsculas);
+
+- Inverte a palavra armazenando os caracteres num novo array;
+
+- Compara a palavra original com a invertida, letra por letra;
+
+- Exibe se a palavra é ou não um palíndromo.
