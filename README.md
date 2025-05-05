@@ -90,3 +90,49 @@ O programa:
 - Compara a palavra original com a invertida, letra por letra;
 
 - Exibe se a palavra é ou não um palíndromo.
+
+
+# Exercicio 06:
+Este programa em C# cadastra três produtos com nome, preço e quantidade, e depois exibe um resumo com o valor total de cada produto.
+
+O funcionamento é o seguinte:
+- Cria um array de objetos Produto com tamanho 3;
+- Para cada produto, solicita ao usuário o nome, o preço unitário e a quantidade;
+- Usa o método totalProduto() da classe Produto para calcular o valor total (preço × quantidade);
+- Ao final, exibe um resumo listando o nome de cada produto, sua quantidade e o valor total calculado com duas casas decimais.
+
+
+# Exercicio 07:
+Este programa em C# solicita ao usuário que digite 10 números inteiros e soma apenas os que forem pares.
+
+O funcionamento é o seguinte:
+- Cria um array de 10 posições para armazenar os números;
+- Em um laço for, lê cada número digitado;
+- Verifica se o número é par usando o operador módulo (% 2 == 0);
+- Se for par, adiciona à variável soma;
+- Ao final, exibe a soma total dos números pares digitados.
+
+
+# Exercicio 08:
+Este programa em C# calcula o IMC (Índice de Massa Corporal) do usuário com base em seu peso e altura, e exibe a classificação correspondente.
+
+O funcionamento é o seguinte:
+- Solicita que o usuário informe seu peso (em kg) e altura (em metros);
+- Calcula o IMC usando a fórmula: IMC = peso / (altura × altura);
+- Exibe o IMC com duas casas decimais;
+- Usa estrutura if-else para classificar o resultado em:
+  - Abaixo do peso (IMC < 18.5)
+  - Peso normal (18.5 ≤ IMC < 25)
+  - Sobrepeso (25 ≤ IMC < 30)
+  - Obesidade (IMC ≥ 30)
+
+
+# Exercicio 09:
+Este programa em C# é um jogo de adivinhação onde o usuário tenta descobrir um número secreto entre 1 e 100.
+
+O funcionamento é o seguinte:
+- Gera um número aleatório entre 1 e 100 usando Random.Next();
+- O programa entra em um laço while onde o usuário digita um palpite;
+- Após cada tentativa, o programa informa se o número secreto é maior ou menor que o palpite;
+- O laço continua até que o palpite esteja correto;
+- Ao final, exibe uma mensagem de parabéns e o número de tentativas feitas até acertar.
