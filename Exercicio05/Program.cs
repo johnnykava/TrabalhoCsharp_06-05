@@ -14,6 +14,9 @@ namespace Exercicio05{
             //Tranforma toda a palavra em minuscula
             palavra = palavra.ToLower();
 
+            //Remove os espaços da frase
+            palavra = palavra.Replace(" ", "");
+
             //Cria um array de caracteres que tem o tamanho da palavra digitada
             char[] palavraInversa = new char[palavra.Length];
 
