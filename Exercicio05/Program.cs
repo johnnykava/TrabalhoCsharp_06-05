@@ -8,7 +8,7 @@ namespace Exercicio05{
             int p = 0;
 
             //Pede para o usuario digitar uma string
-            Console.WriteLine("Digite um palavra que deseja verificar se é polindromo: ");
+            Console.WriteLine("Digite um palavra que deseja verificar se é palindromo: ");
             palavra = Console.ReadLine();
 
             //Tranforma toda a palavra em minuscula
