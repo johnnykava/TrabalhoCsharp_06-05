@@ -1,0 +1,15 @@
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\bin\Debug\net8.0\Exercicio10.exe
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\bin\Debug\net8.0\Exercicio10.deps.json
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\bin\Debug\net8.0\Exercicio10.runtimeconfig.json
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\bin\Debug\net8.0\Exercicio10.dll
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\bin\Debug\net8.0\Exercicio10.pdb
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.AssemblyInfoInputs.cache
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.AssemblyInfo.cs
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.sourcelink.json
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.dll
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\refint\Exercicio10.dll
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.pdb
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\Exercicio10.genruntimeconfig.cache
+C:\Users\johnn\OneDrive\Área de Trabalho\Pastas\Topicos Especiais de Sistema\Lista de Exercicios para GitHub\Exercicio10\obj\Debug\net8.0\ref\Exercicio10.dll

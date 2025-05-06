@@ -136,3 +136,18 @@ O funcionamento é o seguinte:
 - Após cada tentativa, o programa informa se o número secreto é maior ou menor que o palpite;
 - O laço continua até que o palpite esteja correto;
 - Ao final, exibe uma mensagem de parabéns e o número de tentativas feitas até acertar.
+
+# Exercicio 10:
+Este programa em C# é um gerenciador simples de tarefas no console. Ele permite ao usuário adicionar tarefas, marcar tarefas como concluídas, listar tanto tarefas pendentes quanto concluídas, e encerrar o programa. O fluxo de funcionamento é o seguinte:
+
+- O programa exibe um menu com quatro opções:
+
+-  Adicionar tarefa — O usuário insere a descrição de uma nova tarefa, que é adicionada à lista de tarefas pendentes.
+
+-  Completar tarefa — O programa lista as tarefas pendentes e permite ao usuário selecionar uma para marcar como concluída (a tarefa é movida para a lista de tarefas concluídas).
+
+-  Listar tarefas — Mostra tanto as tarefas pendentes quanto as concluídas.
+
+-  Sair — Encerra o programa.
+
+- O programa continua em um loop (while) até o usuário escolher a opção de sair. Também há validações básicas para evitar entradas inválidas (como selecionar um número de tarefa inexistente).
